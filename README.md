@@ -2,7 +2,7 @@
 
 AetherSX2 is one of the most popular PlayStation 2 emulators available for Android devices. It allows gamers to enjoy classic PS2 titles on smartphones and tablets with impressive performance and smooth gameplay. Thanks to its advanced emulation technology, users can experience many of their favorite PlayStation 2 games without needing the original console.
 
-For users looking to get the latest version,**Download <a href="https://theaetharsx2.com/">AetherSX2</a> APK** from a trusted source to access updated files, installation instructions, and version information.
+For users looking to get the latest version,**Download <a href="https://thaethersx2.com/">AetherSX2</a> APK** from a trusted source to access updated files, installation instructions, and version information.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6a22226-ffd8-4060-a131-cb0bef82413d" />
 
