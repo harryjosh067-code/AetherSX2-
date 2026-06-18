@@ -37,7 +37,7 @@ AetherSX2 includes flexible touch-screen controls and supports external controll
 
 ### Memory Card Emulation
 
-The emulator supports virtual memory cards, allowing users to save game progress just like on an original PlayStation 2 console.
+The emulator supports virtual memory cards, allowing users to save game progress just like on an original PlayStation 2 console **<a href=" [https://steemit.com/aethersx2/@harryjosh/play-ps2-games-on-android-with-aethersx2]">PlayStation 2 console </a>** .
 
 ## System Requirements
 
